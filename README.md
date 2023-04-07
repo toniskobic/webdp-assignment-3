@@ -1,6 +1,6 @@
 # WebDP Assignment 3
 
-WebDP Assignment 3 is a HTML, CSS and JavaScript website made as part of a college assignment.
+WebDP Assignment 3 is a HTML, CSS, JavaScript and jQuery website made as part of a college assignment.
 This assignment is the third of four assignments made as part of the faculty undergraudate studies course "Web Design and Programming".
 Website is implemented using the [BEM (Block, Element, Modifer)](https://en.bem.info/methodology/) methodology.
 
